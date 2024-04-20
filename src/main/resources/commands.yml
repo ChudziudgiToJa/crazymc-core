@@ -1,0 +1,14 @@
+commands:
+  test:
+    - "1"
+    - "2"
+    - "3"
+  pomoc:
+    - "1"
+    - "2"
+    - "3"
+  vip:
+    - "1"
+
+blocked-commands:
+  - "/pomoc"

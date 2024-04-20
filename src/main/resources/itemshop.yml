@@ -1,0 +1,7 @@
+itemshop:
+  vip:
+    command: "pex user {NICK} group set vip" # Dostępne zmienne: {NICK}
+    message: # Dostępne zmienne: {NICK}
+      - "&c------------------"
+      - "&7Gracz: {NICK} zakupil range VIP!"
+      - "&c------------------"

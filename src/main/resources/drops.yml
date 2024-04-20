@@ -1,0 +1,127 @@
+drops:
+  Diament:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: DIAMOND_BLOCK
+  Szmaragd:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: EMERALD_BLOCK
+  Zelazo:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: IRON_BLOCK
+  Zloto:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: GOLD_BLOCK
+  Redstone:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: REDSTONE_BLOCK
+  Obsydian:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: OBSIDIAN
+  Piasek:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: false
+    item: SAND
+  Szlam:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: SLIME_BLOCK
+  Ksiazka:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: false
+    item: BOOK
+  Perla Kresu:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: ENDER_PEARL
+  TnT:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: TNT
+  Jablko:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: true
+    item: APPLE
+  Wegiel:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: false
+    item: COAL_BLOCK
+  Drewno:
+    color: "&a&l"
+    chance: 10.0
+    fortune: true
+    minAmount: 1
+    maxAmount: 3
+    exp: 5
+    isGuild: false
+    item: LOG

@@ -1,0 +1,59 @@
+# Dostępne zmienne: {NICK}, {ONLINE}
+joinMessage:
+  - "&c{NICK}"
+  - "Witaj na serwerze!"
+
+# Dostępne zmienne: {NICK}
+joinTitle: "&7Jestes kozak {NICK}"
+
+# Dostępne zmienne: {NICK}
+joinSubtitle: "&7Witaj!"
+
+# Dostępne zmienne: {TAG}, {X}, {Y}, {Z}
+fightMessage:
+    - ""
+    - "&7Gildia: {TAG} zaprasza na walke!"
+    - "&7Koordy: X: {X}, Y: {Y}, Z: {Z}"
+    - ""
+
+#Wiadomosci automatyczne.
+autoMessages:
+  - "&7Automessage 1"
+  - "&7Automessage 2"
+  - "&7Automessage 3"
+
+#Sprawdzanie.
+checkLocation: "world:0:64:0"
+checkClearBroadcast: "&7gracz {PLAYER} nie posiada czitow!"
+checkCheaterBroadcast: "&7gracz {PLAYER} posiada czity!"
+checkCheaterCommand: "say siema"
+checkLogoutCommand: "say elo"
+playerBlockedCommand: "&7ta komenda zablokowana!"
+playerCheckStartMessage: "&7jestes sprawdzany!"
+titleCheckStart: "&cjestes sprawdzany!"
+titleCheckClear: "&cJestes czysty!"
+titleBlcokedCommand: "&ckomenda zablokowana!"
+subTitleCheckStart: "&cNie logaj!"
+subTitleCheckClear: "&cMozesz sie wylogowac!"
+subTitleBlcokedCommand: "&cpodczas sprawdzania!"
+
+checkAllowedCommands:
+  - "/test"
+
+checkCommandUsage:
+  - "&c&lSprawdzanie:"
+  - "&8- &7/sprawdz <nick>"
+  - "&8- &7/sprawdz czysty <nick>"
+  - "&8- &7/sprawdz czity <nick>"
+
+checkStartBroadcast:
+  - "&7sprawdzanie started"
+  - "&cgracz: {PLAYER}"
+  - "&aadmin: {ADMIN}"
+
+#Regiony.
+spawnRegion: 50
+pvpRegion: 150
+
+#Inne.
+isCaseEnabled: true

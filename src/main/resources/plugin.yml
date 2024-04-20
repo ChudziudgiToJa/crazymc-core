@@ -1,0 +1,5 @@
+name: CrazyMC-Core
+version: '${project.version}'
+author: Karmelowy
+main: pl.crazymc.core.CorePlugin
+api-version: 1.20
